@@ -68,11 +68,11 @@ them regardless of the current directory:
     └── perlbrew
         └── tags
 
-My <.vimrc> then contains:
+My C<.vimrc> then contains:
 
     set tags+=~/.ctagsdir/*/tags
 
-And <.bashrc> contains:
+And C<.bashrc> contains:
 
     alias vit='vi -t'
 
