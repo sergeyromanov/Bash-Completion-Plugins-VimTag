@@ -1,13 +1,11 @@
-/Bash-Completion-Plugins-VimTag*
+Bash-Completion-Plugins-VimTag*
 *.swp
+*.un~
 build/
 .build/
-INC.SKIP
-PTAGS.SKIP
 cover_db/
 nytprof.*
 nytprof
-00_dbsetup.t
 .DS_Store
 tags
 MYMETA.json
