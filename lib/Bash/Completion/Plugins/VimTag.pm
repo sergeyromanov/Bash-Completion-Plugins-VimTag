@@ -49,6 +49,11 @@ sub complete {
 }
 1;
 
+__END__
+=pod
+
+=encoding UTF-8
+
 =head1 NAME
 
 Bash::Completion::Plugins::VimTag - Bash completion plugin for vim tags
